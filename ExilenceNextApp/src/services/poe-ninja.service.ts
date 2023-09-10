@@ -55,6 +55,7 @@ function getItemCategories() {
     //'UniqueJewel',
     //'ClusterJewel',
     'BlightedMap',
+    'Tattoo',
     //'BaseType',
     //'HelmetEnchant',
   ];
