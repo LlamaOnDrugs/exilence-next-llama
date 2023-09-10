@@ -52,10 +52,11 @@ function getItemCategories() {
     'Vial',
     'Invitation',
     'Artifact',
-    //'UniqueJewel',
+    'UniqueJewel',
     //'ClusterJewel',
     'BlightedMap',
     'Tattoo',
+    'Omen',
     //'BaseType',
     //'HelmetEnchant',
   ];
